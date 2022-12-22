@@ -1,6 +1,6 @@
 # Decision-Tree-Algorithm
 
-Here we explain the concept and math behind Decision Tree Algorithm, code it completely from scratch using only two libraries: numpy and pandas, and implement it. 
+Here we explain the concept and math behind Decision Tree Algorithm, code it completely from scratch using only two libraries: numpy and pandas and implement it.
 
 In this repository you can find following files:
 1. pdf file: Decision Tree Classification in Python.pdf which is a seminary paper (under the work) that explains the concept and math behind Decision Tree Algorithm 
